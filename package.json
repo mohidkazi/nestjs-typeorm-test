@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@nestjs/common": "10.4.12",
-    "@nestjs/core": "6.6.7",
+    "@nestjs/core": "9.0.5",
     "@nestjs/jwt": "10.0.1",
     "@nestjs/platform-express": "10.4.12",
     "@nestjs/typeorm": "6.1.3",
