@@ -16,7 +16,7 @@
     "class-validator": "^0.14.0",
     "mysql": "2.18.0",
     "rxjs": "^6.5.3",
-    "typeorm": "0.3.0",
+    "typeorm": "0.3.20",
     "uuid": "^8.3.0"
   },
   "devDependencies": {
